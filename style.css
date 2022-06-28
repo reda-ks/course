@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: brown;
+    font-family:"arial";
+    font-size:40px;
+    text-shadow:3px 2px;
+}
+span{
+    text-decoration:underline;
+    font-style:italic;
+    font-size:30px;
+    text-shadow:1px 1px;
+    background-color:orange;
+}
+h3{
+    margin:30px;
+    color:green;
+}
+pre{
+    margin:20px;
+    color:orangered;
+    font-size:22px;
+}
+
+.div1{
+    width: 250px:
+    height:250px;
+    float:left;
+}
+.div2{
+    width: 250px:
+    height:250px;
+    float:left;
+}
